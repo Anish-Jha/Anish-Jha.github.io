@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.03b3e305.css",
-    "main.js": "/static/js/main.fac79db2.js",
+    "main.js": "/static/js/main.d76c2212.js",
     "static/js/27.252acd08.chunk.js": "/static/js/27.252acd08.chunk.js",
     "static/media/pg.gif": "/static/media/pg.bb40340f165929162262.gif",
     "static/media/img6.png": "/static/media/img6.f5767fa5df172b2df0d1.png",
     "static/media/img4.png": "/static/media/img4.550c5b5ba02feb696ecc.png",
     "static/media/img5.png": "/static/media/img5.ce4757375080ee029ca4.png",
     "static/media/img1.png": "/static/media/img1.2162d862fbd489f53fea.png",
-    "static/media/Anish_Jha_Resume.pdf": "/static/media/Anish_Jha_Resume.6e8518f0735da81e16a4.pdf",
     "static/media/img2.png": "/static/media/img2.c46133247a78e1a9c8f4.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/chakra.png": "/static/media/chakra.e4cb472ccaabf22affba.png",
     "static/media/me.jpg": "/static/media/me.f23afaf7d6fd521e9c5e.jpg",
     "static/media/img3.png": "/static/media/img3.89bf4eb8b76dd287eddd.png",
+    "static/media/Anish_Jha_Resume.pdf": "/static/media/Anish_Jha_Resume.c5c5047e0e0bfc082262.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/typescript.png": "/static/media/typescript.9b1779a2fd3504559e59.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.03b3e305.css",
-    "static/js/main.fac79db2.js"
+    "static/js/main.d76c2212.js"
   ]
 }
