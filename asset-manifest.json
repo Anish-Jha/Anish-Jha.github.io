@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.03b3e305.css",
-    "main.js": "/static/js/main.22b2175f.js",
+    "main.js": "/static/js/main.260c7407.js",
     "static/js/27.252acd08.chunk.js": "/static/js/27.252acd08.chunk.js",
     "static/media/pg.gif": "/static/media/pg.bb40340f165929162262.gif",
     "static/media/img6.png": "/static/media/img6.f5767fa5df172b2df0d1.png",
@@ -13,7 +13,7 @@
     "static/media/chakra.png": "/static/media/chakra.e4cb472ccaabf22affba.png",
     "static/media/me.jpg": "/static/media/me.f23afaf7d6fd521e9c5e.jpg",
     "static/media/img3.png": "/static/media/img3.89bf4eb8b76dd287eddd.png",
-    "static/media/Anish_Jha_Resume.pdf": "/static/media/Anish_Jha_Resume.7a753bfecc71e4995bb6.pdf",
+    "static/media/Anish_Jha_Resume.pdf": "/static/media/Anish_Jha_Resume.ad520e15d218e614353f.pdf",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/typescript.png": "/static/media/typescript.9b1779a2fd3504559e59.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.03b3e305.css",
-    "static/js/main.22b2175f.js"
+    "static/js/main.260c7407.js"
   ]
 }
